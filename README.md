@@ -83,18 +83,6 @@ I'm a passionate **Full-Stack Developer** and **Final Year CSE Student** at Grap
 - Established CI/CD pipelines reducing release cycles by **40%**
 - Integrated real-time push notifications using WebSockets
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![Gagan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true)
-
-</div>
-
 ## 🏆 Competitive Programming
 
 - 🥇 **LeetCode Rating:** 1800+ (Top 6%)
@@ -115,6 +103,5 @@ I'm always open to interesting conversations and collaboration opportunities!
   
 ### ⚡ Fun Fact: I love building things that make a difference!
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=for-the-badge)
 
 </div>
